@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction
-Addresses the problem of churn modeling 
+Customer churn modeling on a imbalanced dataset.
 
 Contains workbooks on,
  - feature engineering of the churn dataset
