@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction
-Customer churn modeling on a imbalanced dataset.
+Customer Churn modeling on an imbalanced customer churn dataset.
 
 Contains workbooks on,
  - EDA and feature engineering of the churn dataset
